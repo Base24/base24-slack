@@ -1,0 +1,12 @@
+default:
+    extension: .txt
+    output: schemes
+default-blue:
+    extension: .txt
+    output: schemes-blue
+default-purple:
+    extension: .txt
+    output: schemes-purple
+default-green:
+    extension: .txt
+    output: schemes-green
